@@ -18,5 +18,9 @@
   "homepage": "https://github.com/jordantalo/mon_super_site#readme",
   "dependencies": {
     "bulma": "^0.7.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
   }
 }
